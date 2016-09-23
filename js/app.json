@@ -1,0 +1,32 @@
+{
+	"songs" : [
+		{
+			"id": 0,
+			"nombre": "",
+			"artist": "",
+			"song": "music/cancion.mp3",
+			"image": "img/imagen.jpg"
+		},
+		{
+			"id": 1,
+			"nombre": "",
+			"artist": "",
+			"song": "music/cancion.mp3",
+			"image": "img/imagen.jpg"
+		},
+		{
+			"id": 2,
+			"nombre": "",
+			"artist": "",
+			"song": "music/cancion.mp3",
+			"image": "img/imagen.jpg"
+		},
+		{
+			"id": 3,
+			"nombre": "",
+			"artist": "",
+			"song": "music/cancion.mp3",
+			"image": "img/imagen.jpg"
+		}
+	]
+}
