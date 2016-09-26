@@ -2,31 +2,31 @@
 	"songs" : [
 		{
 			"id": 0,
-			"nombre": "",
+			"name": "Diogenes",
 			"artist": "",
-			"song": "music/cancion.mp3",
-			"image": "img/imagen.jpg"
+			"song": "music/Diogenes.mp3",
+			"image": "img/gnr.jpg"
 		},
 		{
 			"id": 1,
-			"nombre": "",
+			"name": "Frenesí",
 			"artist": "",
-			"song": "music/cancion.mp3",
-			"image": "img/imagen.jpg"
+			"song": "music/Frenesí.mp3",
+			"image": "img/pf.jpg"
 		},
 		{
 			"id": 2,
-			"nombre": "",
+			"name": "Huitzil",
 			"artist": "",
-			"song": "music/cancion.mp3",
-			"image": "img/imagen.jpg"
+			"song": "music/Huitzil.mp3",
+			"image": "img/nva.jpg"
 		},
 		{
 			"id": 3,
-			"nombre": "",
+			"name": "Las salas de espera",
 			"artist": "",
-			"song": "music/cancion.mp3",
-			"image": "img/imagen.jpg"
+			"song": "music/Las salas de espera.mp3",
+			"image": "img/gh.jpg"
 		}
 	]
 }
